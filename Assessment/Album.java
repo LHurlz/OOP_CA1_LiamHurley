@@ -94,8 +94,8 @@ public class Album {
 
         int range=(((shuffledSongs.length-1) - 0)+1);
 
-        /*for(int i=0; i<shuffledSongs.length; i++){
-            shuffledSongs[i]=tracks[(int)(Math.random()*range)];
+        /*for(int i=0; i<randomNumbers.length; i++){
+            randomNumbers[i]=(int)(Math.random()*range);
         }*/
 
         /*for(int i=0; i<shuffledSongs.length; i++){
